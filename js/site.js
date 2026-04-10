@@ -40,8 +40,8 @@ function buildSidebar() {
             <!-- 画像なしのとき: -->
             <span>✦</span>
           </div>
-          <span class="prof-name">RICKARS ROCKAR</span>
-          <p class="prof-bio">黒とオレンジで世界を切り取るイラストレーター。かっこいいものだけを描く。</p>
+          <span class="prof-name">RICKAR</span>
+          <p class="prof-bio">Rickar（リッカー）といいます。趣味でインターネットラクガキをかくもの</p>
           <div class="soc">
             <a href="https://x.com/namakemono_rc" target="_blank">X</a>
             <a href="https://www.pixiv.net/users/427076" target="_blank">Pixiv</a>
