@@ -42,6 +42,22 @@ const POSTS = [
 /* ↑ ここまで追加 */
 
 {
+  id:      "Vanilla",
+  title:   "VANILLA",
+  date:    "2026.04.16",
+  tag:     "ファンアート",
+  hero:    false,          
+  image:   "images/works/FAbanira.jpg",
+  excerpt: "イチ推しのCRバニラ。",
+  body: `
+    <p>声がいい、穏やかで、ゲームがうまい…perfect…</p>
+    <h3>制作メモ</h3>
+    <p>CLIP STUDIO PAINT / Photoshop</p>
+  `,
+},
+
+
+{
   id:      "toran01",
   title:   "TORAN - STRATEGY",
   date:    "2026.04.10",
