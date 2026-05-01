@@ -144,18 +144,6 @@ const POSTS = [
   `,
 },
 {
-  id:      "touharo04",
-  title:   "TOUHARO - NIGHT",
-  date:    "2026.04.03",
-  tag:     "キャラクター",
-  hero:    false,
-  image:   "images/works/touharo04.jpg",
-  excerpt: "夜の街並みとキャラクターの組み合わせ。",
-  body: `
-    <p>背景の描き込みとライティングの調整を丁寧に行いました。</p>
-  `,
-},
-{
   id:      "haroulinssr",
   title:   "HAROULIN - MOON",
   date:    "2026.04.02",
@@ -167,6 +155,84 @@ const POSTS = [
     <p>月光の当たり方と影の境界線を意識して描いています。</p>
   `,
   },
+{
+  id:      "PFNW05",           // URLになる一意のID（英数字・ハイフンのみ）
+  title:   "PFNW-TAMASE",           // タイトル（大文字英語推奨）
+  date:    "2025.05.01",            // 投稿日 YYYY.MM.DD 形式
+  tag:     "モンスター",           // タグ（1つ）
+  hero:    false,                   // TOPの看板にする: true / しない: false
+  image:   "images/works/PFNW05.jpg",
+  excerpt: "ピクファンNWで使用した夜の昆虫モンスター",
+  body: `
+    <p>ピクファンでモンスターが描きたくなったので。</p>
+    <p>ザクザク書いて楽しい。かなり古いかな～</p>
+    <h3>制作メモ</h3>
+    <p>SAI</p>
+  `,
+},
+{
+  id:      "PFNW04",           // URLになる一意のID（英数字・ハイフンのみ）
+  title:   "PFNW-GLAPTOR",           // タイトル（大文字英語推奨）
+  date:    "2025.05.01",            // 投稿日 YYYY.MM.DD 形式
+  tag:     "モンスター",           // タグ（1つ）
+  hero:    false,                   // TOPの看板にする: true / しない: false
+  image:   "images/works/PFNW04.jpg",
+  excerpt: "草原をかける肉食モンスター",
+  body: `
+    <p>ピクファンモンスター</p>
+    <p>当時結構モンスターにはまってたかも</p>
+    <h3>制作メモ</h3>
+    <p>SAI</p>
+  `,
+},
+
+{
+  id:      "PFNW01",           // URLになる一意のID（英数字・ハイフンのみ）
+  title:   "PFNW-ZANJI",           // タイトル（大文字英語推奨）
+  date:    "2025.05.01",            // 投稿日 YYYY.MM.DD 形式
+  tag:     "キャラクター",           // タグ（1つ）
+  hero:    false,                   // TOPの看板にする: true / しない: false
+  image:   "images/works/PFNW01.jpg",
+  excerpt: "斬慈　PFNWで生まれた看板＆ゲーム使用キャラ",
+  body: `
+    <p>ツンツン頭三白眼バトル筋肉</p>
+    <p>始まりのキャラクターかも</p>
+    <h3>制作メモ</h3>
+    <p>SAI</p>
+  `,
+},
+{
+  id:      "PFT01",           // URLになる一意のID（英数字・ハイフンのみ）
+  title:   "PFT-MIZUKI",           // タイトル（大文字英語推奨）
+  date:    "2025.05.01",            // 投稿日 YYYY.MM.DD 形式
+  tag:     "キャラクター",           // タグ（1つ）
+  hero:    false,                   // TOPの看板にする: true / しない: false
+  image:   "images/works/PFT01.jpg",
+  excerpt: "ピクファンでかいた魔法少女",
+  body: `
+    <p>魔法少女イメージ</p>
+    <p>普段はおっとり図書委員メガネっ子にしたくて</p>
+    <h3>制作メモ</h3>
+    <p>SAI</p>
+  `,
+},
+{
+  id:      "PFT02",           // URLになる一意のID（英数字・ハイフンのみ）
+  title:   "PFT-SHON",           // タイトル（大文字英語推奨）
+  date:    "2025.05.01",            // 投稿日 YYYY.MM.DD 形式
+  tag:     "キャラクター",           // タグ（1つ）
+  hero:    false,                   // TOPの看板にする: true / しない: false
+  image:   "images/works/PFT02.jpg",
+  excerpt: "ピクファン少年に挑戦してた一枚　狐耳",
+  body: `
+    <p>普段絶対書かない系</p>
+    <p>これはこれでたのしかったかも</p>
+    <h3>制作メモ</h3>
+    <p>SAI</p>
+  `,
+},
+
+
 
   /* ↑ 新しい投稿は上に追加していく ↑ */
 
