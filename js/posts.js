@@ -24,14 +24,26 @@
 const POSTS = [
 
   /* ↓ ここから追加（最新投稿が一番上） ↓ */
-
+{
+  id:      "kurakura03",
+  title:   "KURAKURA-T A N K",
+  date:    "2026.04.11",          // 日付を最新に設定しました
+  tag:     "キャラクター",
+  hero:    true,                   // ★これを看板イラスト（TOPヒーロー）に設定★
+  image:   "images/works/kurakura03.jpg",
+  excerpt: "音声記録資料04-30　2350　本部庁舎前入口",
+  body: `
+    <p>柊さん　　付き合ってもらえますか</p>
+    <p>タワーディフェンス　好きじゃねーんだけどなぁ…</p>
+  `,
+},
   
 {
   id:      "kurakura02",
   title:   "KURAKURA - CITY NIGHT",
   date:    "2026.04.11",          // 日付を最新に設定しました
   tag:     "キャラクター",
-  hero:    true,                   // ★これを看板イラスト（TOPヒーロー）に設定★
+  hero:    false,                   // ★これを看板イラスト（TOPヒーロー）に設定★
   image:   "images/works/kurakura02.jpg",
   excerpt: "夜の街を背景にしたキャラクターのイラスト。",
   body: `
