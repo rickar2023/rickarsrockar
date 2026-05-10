@@ -249,7 +249,7 @@ const POSTS = [
     date:    "2026.05.10",
     tag:     "キャラクター",
     hero:    false,
-    image:   "images/works/PFRD01",
+    image:   "images/works/PFRD01.jpg",
     excerpt: "かつてジンとよばれたもの",
     body: `
       <p>かつてのピクファンのキャラが闇落ちしたような姿をPFRDで作成したもの</p>
