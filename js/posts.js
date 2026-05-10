@@ -257,7 +257,18 @@ const POSTS = [
     `,
   },
 
-  
+    {
+    id:      "ff1403",
+    title:   "DIAMOND",
+    date:    "2026.05.10",
+    tag:     "版権",
+    hero:    false,
+    image:   "images/works/ff1403.jpg",
+    excerpt: "ウェルリト",
+    body: `
+      <p>お兄ちゃんの背中めっちゃ焼かれてるのとか…ね…</p>
+    `,
+  },
 
 
   /* ↑ 新しい投稿は上に追加していく ↑ */
