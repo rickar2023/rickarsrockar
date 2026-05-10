@@ -243,7 +243,21 @@ const POSTS = [
     <p>SAI</p>
   `,
 },
+  {
+    id:      "FFRD-VS",
+    title:   "OVER　FLOW",
+    date:    "2026.05.10",
+    tag:     "キャラクター",
+    hero:    false,
+    image:   "images/works/PFRD01",
+    excerpt: "かつてジンとよばれたもの",
+    body: `
+      <p>かつてのピクファンのキャラが闇落ちしたような姿をPFRDで作成したもの</p>
+      <p>制作：SAI</p>
+    `,
+  },
 
+  
 
 
   /* ↑ 新しい投稿は上に追加していく ↑ */
