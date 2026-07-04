@@ -24,12 +24,28 @@
 const POSTS = [
 
   /* ↓ ここから追加（最新投稿が一番上） ↓ */
+
+  {
+    id:      "sirogane01",
+    title:   "SHIROGANE",
+    date:    "2026.07.04",
+    tag:     "キャラクター",
+    hero:    true,
+    image:   "images/works/sirogane01.jpg",
+    excerpt: "X企画白鯨界遊　参加キャラ",
+    body: `
+<p>「来やがれ！次郎！！！</p>
+    <p>　　　俺達が一番潮よ！！」</p>
+
+    `,
+  },
+
 {
   id:      "kurakura03",
   title:   "KURAKURA-T A N K",
   date:    "2026.04.11",          // 日付を最新に設定しました
   tag:     "キャラクター",
-  hero:    true,                   // ★これを看板イラスト（TOPヒーロー）に設定★
+  hero:    false,                   // ★これを看板イラスト（TOPヒーロー）に設定★
   image:   "images/works/kurakura03.jpg",
   excerpt: "音声記録資料04-30　2350　本部庁舎前入口",
   body: `
